@@ -128,4 +128,4 @@ X_train.shape
 ![x_train_size](./x_train_shape.png)
 
 ## RESULT
-### Data preprocessing is performed in a data set downloaded from Kaggle
+Data preprocessing is performed in a data set downloaded from Kaggle
